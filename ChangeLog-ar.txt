@@ -1,4 +1,4 @@
-{"version_code":452562,"content":"
+{"version_code":452550,"content":"
 <p>تحديث</p>
 
 <li> ازالة رساله التحديث المزعجة</li>
