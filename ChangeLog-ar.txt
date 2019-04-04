@@ -1,11 +1,12 @@
-{"version_code":452550,"content":"
-<p>دعم الموقع</p>
+{"version_code":452562,"content":"
+<p>تحديث</p>
 
-<li>رسالة دعم للموقع</li>
-<li>عزيزي المستخدم</li>
-<li>قم بالضغط على تحديث تم تصفح الموقع لبضع دقائق</li>
-<li>ثم قم بالنقر على اي اعلان من الاعلانات</li>
-<li>ادعمنا لنستمر بتطوير النسخة وشكرا</li>
+<li> ازالة رساله التحديث المزعجة</li>
+<li> تمديد مدة صلاحيه النسخة</li>
 
-","url":"https://www.devsaif.com/2018/05/SAiNSTA.html"
+<li> Added Anti-Expiry</li>
+<li> Removed annoying update WhatsApp message</li>
+
+
+","url":"https://www.devsaif.com/whatsapp-pro/"
 }
