@@ -8,5 +8,5 @@
 <li> Removed annoying update WhatsApp message</li>
 
 
-","url":"https://www.devsaif.com/2019/01/WhatsApp-Pro.html"
+","url":"https://www.mediafire.com/file/bccyaf8i8mei4jr/WhatsApp-Pro.apk"
 }
