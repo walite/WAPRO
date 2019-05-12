@@ -1,12 +1,24 @@
 {"version_code":452607,"content":"
-<p>تحديث</p>
+<p>تحديث | update 3.10</p>
 
-<li> ازالة رساله التحديث المزعجة</li>
-<li> تمديد مدة صلاحيه النسخة</li>
+<li>امكانية اضافة الوان جديدة للحالة النصية</li>
+<li>اضافة خيار لاخفاء ايقونة المكالمات الجماعية في المجموعة</li>
+<li>امكانية اخفاء & نقل ايقونة بدء مكالمة جديدة الى قائمة الخيارات</li>
+<li>امكانية اخفاء & نقل ايقونة اعدادات اكستريم الى قائمة الخيارات</li>
+<li>امكانية اخفاء & نقل ايقونة البحث الى قائمة الخيارات</li>
+<li>امكانية اخفاء/نقل ايقونة  قطع الاتصال الى قائمة الخيارات</li>
+<li>اعادة اضافة كافة اضافات اكستريم السابقة</li>
+<li>والمزيد............</li>
 
-<li> Added Anti-Expiry</li>
-<li> Removed annoying update WhatsApp message</li>
+<li> Added option to hide/Move [Group Call Icon] from Action bar to options</li>
+<li> Added Option to Changes Background Color Status </li>
+<li> Added Option to Move New Call Icon from Action Bar To options</li>
+<li> Added Option to Move Search Icon from Action Bar To options</li>
+<li> Added Option to Hide DND Mode Icon</li>
+<li> Added Option to Move Extreme Settings Icon from Action Bar To options</li>
+<li> ReAdded All GBWA Extreme options</li>
+<li> And More...</li>
 
 
-","url":"https://www.devsaif.com/2019/01/WhatsApp-Pro.html"
+","url":"https://www.devsaif.com/2018/11/SAWhatsApp-V3.00.html"
 }
