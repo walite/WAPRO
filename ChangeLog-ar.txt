@@ -1,5 +1,5 @@
-{"version_code":45260,"content":"
-<p>تحديث | update 3.10</p>
+{"version_code":452602,"content":"
+<p>تحديث | update 1.10</p>
 
 <li>امكانية اضافة الوان جديدة للحالة النصية</li>
 <li>اضافة خيار لاخفاء ايقونة المكالمات الجماعية في المجموعة</li>
@@ -7,7 +7,7 @@
 <li>امكانية اخفاء & نقل ايقونة اعدادات اكستريم الى قائمة الخيارات</li>
 <li>امكانية اخفاء & نقل ايقونة البحث الى قائمة الخيارات</li>
 <li>امكانية اخفاء/نقل ايقونة  قطع الاتصال الى قائمة الخيارات</li>
-<li>اعادة اضافة كافة اضافات اكستريم السابقة</li>
+<li>اعادة اضافة كافة اضافات SAWA السابقة</li>
 <li>والمزيد............</li>
 
 <li> Added option to hide/Move [Group Call Icon] from Action bar to options</li>
@@ -20,5 +20,5 @@
 <li> And More...</li>
 
 
-","url":"https://www.devsaif.com/2018/11/SAWhatsApp-V3.00.html"
+","url":"https://www.devsaif.com/2019/01/WhatsApp-Pro.html"
 }
