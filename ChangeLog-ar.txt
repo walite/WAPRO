@@ -1,24 +1,19 @@
-{"version_code":452602,"content":"
-<p>تحديث | update 1.10</p>
+{"version_code":452603,"content":"
+<p>تحديث 1.20</p>
 
-<li>امكانية اضافة الوان جديدة للحالة النصية</li>
-<li>اضافة خيار لاخفاء ايقونة المكالمات الجماعية في المجموعة</li>
-<li>امكانية اخفاء & نقل ايقونة بدء مكالمة جديدة الى قائمة الخيارات</li>
-<li>امكانية اخفاء & نقل ايقونة اعدادات اكستريم الى قائمة الخيارات</li>
-<li>امكانية اخفاء & نقل ايقونة البحث الى قائمة الخيارات</li>
-<li>امكانية اخفاء/نقل ايقونة  قطع الاتصال الى قائمة الخيارات</li>
-<li>اعادة اضافة كافة اضافات SAWA السابقة</li>
-<li>والمزيد............</li>
+<li>نسخة ضد الحظر (يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيت التحديث الجديد حتى لا يتم حظر رقمك مستقبلا)</li>
+<li>تمديد صلاحية النسخة لمدة شهرين</li>
+<li>اصلاح مشكلة ظهور عداد الرسائل المخفية</li>
+<li>اصلاح لون الدفعات في شاشة المحادثة</li>
+<li>اصلاح الانهيار عند فتح محادثة في بعض الاصدارات</li>
+<li>اصلاحات اخرى</li>
 
-<li> Added option to hide/Move [Group Call Icon] from Action bar to options</li>
-<li> Added Option to Changes Background Color Status </li>
-<li> Added Option to Move New Call Icon from Action Bar To options</li>
-<li> Added Option to Move Search Icon from Action Bar To options</li>
-<li> Added Option to Hide DND Mode Icon</li>
-<li> Added Option to Move Extreme Settings Icon from Action Bar To options</li>
-<li> ReAdded All GBWA Extreme options</li>
-<li> And More...</li>
+<li> Anti-Ban (Please take Backup - Uninstall App / Install GBWhatsApp v3.20)</li>
+<li> Extend expiry for this Base</li>
+<li> Fixed Hidden Chat Count Showing on Main Screen</li>
+<li> Fixed Payments Color in Attach Menu</li>
+<li> Fixed Crash when open chat in some devices</li>
+<li> Other Fixes</li>
 
-
-","url":"https://www.devsaif.com/2019/01/WhatsApp-Pro.html"
+","url":"https://www.saifroid.com/2017/12/WhatsApp-Pro.html"
 }
